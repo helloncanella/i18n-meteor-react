@@ -1,4 +1,4 @@
-this.supportedLanguages = [
+export const supportedLanguages = this.supportedLanguages = [
 	{ name: "English",  code: "en" },
 	{ name: "Deutsch",  code: "de" },
 	{ name: "Français", code: "fr" },
